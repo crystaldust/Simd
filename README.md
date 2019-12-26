@@ -147,7 +147,7 @@ The test suite is needed for testing of correctness of work of the library and a
 There is a set of tests for every function from API of the library. 
 There is an example of test application using:
 
-	./Test -m=a -tt=1 -f=Sobel -ot=log.txt
+	./Test -m=a -tt=1 -fi=Sobel -ot=log.txt
 
 Where next parameters were used:
 
